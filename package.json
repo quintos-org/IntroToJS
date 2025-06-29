@@ -1,16 +1,16 @@
 {
 	"author": "quinton-ashley",
 	"bugs": {
-		"url": "https://github.com/quinton-ashley/IntroToJS/issues"
+		"url": "https://github.com/quintos-org/IntroToJs/issues"
 	},
 	"description": "Learn to code by making games in JavaScript using QuintOS!",
-	"homepage": "https://github.com/quinton-ashley/IntroToJS#readme",
+	"homepage": "https://github.com/quintos-org/IntroToJs#readme",
 	"license": "GPL-3.0-only",
 	"main": "",
 	"name": "introtojs",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/quinton-ashley/IntroToJS.git"
+		"url": "git+https://github.com/quintos-org/IntroToJs.git"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +19,5 @@
 		"version": "git add -A",
 		"postversion": "git push"
 	},
-	"version": "2.0.209"
+	"version": "2.0.210"
 }

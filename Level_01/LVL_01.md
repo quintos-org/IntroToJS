@@ -28,7 +28,7 @@ Now open the Git Bash app on Windows or the Terminal app on macOS and copy/paste
 
 ```sh
 cd ~/Documents
-git clone https://github.com/quinton-ashley/IntroToJS.git
+git clone https://github.com/quintos-org/IntroToJs.git
 git clone https://github.com/!!!your username!!!/quintos-projects.git
 cd quintos-projects
 npm i
