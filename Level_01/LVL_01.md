@@ -20,7 +20,7 @@ Before you start your next game, let's get you setup for JavaScript development 
 
 ## Setup
 
-Open the [quintos-template](https://github.com/quinton-ashley/quintos-template) project on Github. Press the big green button that says "Use this template". Name your project "quintos-projects".
+Open the [quintos-template](https://github.com/quintos-org/quintos-template) project on Github. Press the big green button that says "Use this template". Name your project "quintos-projects".
 
 ---
 
